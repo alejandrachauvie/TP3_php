@@ -1,0 +1,11 @@
+usuarios:
+
+ACTIVOS: 
+
+RodriguezS@gmail.com - CLAVE: 123456
+RodriguezT@gmail.com - CLAVE:123456
+RodriguezL@gmail.com - CLAVE:123456
+LujanC@gmail.com - CLAVE:123456
+
+INACTIVO
+maru_87@hotmail.com - CLAVE:123456
